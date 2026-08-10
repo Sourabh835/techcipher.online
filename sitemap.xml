@@ -7,10 +7,40 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://techcipher.online/blog</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://techcipher.online/how-to-become-ethical-hacker-in-india</loc>
     <lastmod>2026-08-10</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://techcipher.online/is-cybersecurity-a-good-career-in-india</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://techcipher.online/how-to-protect-phone-from-hackers</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://techcipher.online/common-cybersecurity-threats-and-how-to-avoid-them</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://techcipher.online/how-does-chatgpt-work-in-simple-terms</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://techcipher.online/about</loc>
