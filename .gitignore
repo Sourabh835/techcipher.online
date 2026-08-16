@@ -1,0 +1,5 @@
+# Scratch / dev scripts (never publish)
+_kw_*.py
+kw_harvest.json
+site_home.html
+*.log
