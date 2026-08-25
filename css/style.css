@@ -95,6 +95,26 @@ article td { padding: 10px 12px; border: 1px solid var(--border); vertical-align
 .site-footer p { color: var(--muted); font-size: .9rem; }
 .site-footer nav a { margin-left: 14px; color: var(--muted); font-size: .9rem; }
 
+/* ===== Ad slots ===== */
+.ad-slot { margin: 26px auto; text-align: center; }
+.ad-label { display: block; font-size: .68rem; letter-spacing: 1.4px; text-transform: uppercase; color: var(--muted); opacity: .55; margin-bottom: 6px; }
+.ad-slot iframe { max-width: 100%; }
+.ad-leader { max-width: 728px; }
+.ad-rect { max-width: 300px; }
+.ad-banner { max-width: 468px; }
+.ad-mobile { max-width: 320px; }
+.ad-sky { max-width: 160px; }
+.ad-native { max-width: 100%; }
+
+/* Article + sidebar layout */
+.article-main { min-width: 0; }
+.ad-sidebar { margin-top: 26px; }
+.ad-sidebar .ad-slot { margin: 0 0 30px; }
+@media (min-width: 1000px) {
+  .article-wrap.layout-sidebar { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 36px; align-items: start; }
+  .ad-sidebar { position: sticky; top: 84px; margin-top: 0; }
+}
+
 @media (max-width: 600px) {
   .hero h1 { font-size: 1.6rem; }
   .article-header h1 { font-size: 1.5rem; }
